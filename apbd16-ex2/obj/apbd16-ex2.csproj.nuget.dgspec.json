@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jan\\Documents\\GitHub\\apbd16-ex2\\apbd16-ex2\\apbd16-ex2.csproj": {}
+    "C:\\Users\\Jan\\Downloads\\apbd16-ex2\\apbd16-ex2\\apbd16-ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jan\\Documents\\GitHub\\apbd16-ex2\\apbd16-ex2\\apbd16-ex2.csproj": {
+    "C:\\Users\\Jan\\Downloads\\apbd16-ex2\\apbd16-ex2\\apbd16-ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jan\\Documents\\GitHub\\apbd16-ex2\\apbd16-ex2\\apbd16-ex2.csproj",
+        "projectUniqueName": "C:\\Users\\Jan\\Downloads\\apbd16-ex2\\apbd16-ex2\\apbd16-ex2.csproj",
         "projectName": "apbd16-ex2",
-        "projectPath": "C:\\Users\\Jan\\Documents\\GitHub\\apbd16-ex2\\apbd16-ex2\\apbd16-ex2.csproj",
+        "projectPath": "C:\\Users\\Jan\\Downloads\\apbd16-ex2\\apbd16-ex2\\apbd16-ex2.csproj",
         "packagesPath": "C:\\Users\\Jan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jan\\Documents\\GitHub\\apbd16-ex2\\apbd16-ex2\\obj\\",
+        "outputPath": "C:\\Users\\Jan\\Downloads\\apbd16-ex2\\apbd16-ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,12 +37,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Jan\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Jan\\.dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

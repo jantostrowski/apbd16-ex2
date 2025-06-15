@@ -1,2 +1,2 @@
 # apbd16-ex2
-APBD PJAIT
+APBD PJAIT + CLI dla chętnych
